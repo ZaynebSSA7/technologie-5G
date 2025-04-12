@@ -22,3 +22,9 @@ Ce projet consiste à développer un site web statique pour explorer et explique
 - `git push origin [nom-branche]` : Envoie les modifications locales vers GitHub.
 - `git pull origin [nom-branche]` : Récupère les dernières modifications depuis GitHub pour la branche locale.
 - `git merge [nom-branche]` : Fusionne une branche dans la branche courante.
+
+### **Résumé des étapes effectuées par Zayneb Chikhrouhou**
+1. **Clonage du dépôt** en local.
+2. **Ajout de la description du projet** dans le fichier `README.md`.
+3. **Création de la structure de la page d'accueil** dans le fichier `index.html`.
+4. **Commit et push des fichiers** (`README.md` et `index.html`).
